@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="solution/BOJ_1330_두수-비교하기"/>
+	<classpathentry kind="src" path="solution/BOJ_15552_빠른A+B"/>
+	<classpathentry kind="src" path="solution/BOJ_2444_별찍기-7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
