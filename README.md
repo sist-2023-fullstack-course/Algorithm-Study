@@ -42,7 +42,7 @@
 <hr>
 <br>
 
-## This's Week Problem
+## This Week's Problem
 |Problem|Level|Solution|                                                                                              나도원|윤지수|윤연상|이동준|
 |-------|:---:|:------:|:---:|:---:|:---:|:---:|
 |[별 찍기 - 7](https://www.acmicpc.net/problem/2444)|B3|[Here](./solution/BOJ_2444_별찍기-7)                                  |  -  |  -  |  O  |  -  |
