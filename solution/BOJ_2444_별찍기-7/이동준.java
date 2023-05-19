@@ -23,7 +23,7 @@ public class Main {
 				for(int x=1;x<=2*i-1;x++) {
 					System.out.print("*");
 				}
-				System.out.println();
+				System.out.println(); 
 			}
 		}catch(Exception ex) {
 			ex.printStackTrace();
