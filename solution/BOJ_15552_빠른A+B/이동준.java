@@ -5,7 +5,7 @@ public class Main {
 		
 		BufferedReader br;
 		BufferedWriter bw;
-		
+		 
 		try
 		{ 
 			br=new BufferedReader(new InputStreamReader(System.in));
