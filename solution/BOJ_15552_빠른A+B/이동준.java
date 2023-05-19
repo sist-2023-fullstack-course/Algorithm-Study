@@ -7,7 +7,7 @@ public class Main {
 		BufferedWriter bw;
 		
 		try
-		{
+		{ 
 			br=new BufferedReader(new InputStreamReader(System.in));
 			bw=new BufferedWriter(new OutputStreamWriter(System.out));
 			int totalline = Integer.parseInt(br.readLine());
