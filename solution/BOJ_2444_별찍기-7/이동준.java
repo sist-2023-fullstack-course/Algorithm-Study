@@ -3,7 +3,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		BufferedReader br;
-		try
+		try 
 		{
 			br= new BufferedReader(new InputStreamReader(System.in));
 			int N=Integer.parseInt(br.readLine());
@@ -24,7 +24,7 @@ public class Main {
 					System.out.print("*");
 				}
 				System.out.println(); 
-			}   
+			}
 		}catch(Exception ex) { 
 			ex.printStackTrace();
 		}
