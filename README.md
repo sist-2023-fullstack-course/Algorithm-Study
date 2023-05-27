@@ -45,6 +45,6 @@
 ## This Week's Problem
 |Problem|Level|Solution|                                                                                              나도원|윤지수|윤연상|이동준|
 |-------|:---:|:------:|:---:|:---:|:---:|:---:|
-|[별 찍기 - 7](https://www.acmicpc.net/problem/2444)|B3|[Here](./solution/BOJ_2444_별찍기-7)                                  |  -  |  -  |  O  |  O  |
-|[두 수 비교하기](https://www.acmicpc.net/problem/1330)|B5|[Here](./solution/BOJ_1330_두수-비교하기)                    |  -  |  -  |  O  |  O  | 
-|[빠른 A+B](https://www.acmicpc.net/problem/15552)|B4|[Here](./solution/BOJ_15552_빠른A+B)                          |  -  |  -  |  O  |  O  |
+|[블랙잭](https://www.acmicpc.net/problem/2798)|B3|[Here](./solution/BOJ_2798_블랙잭)                                  |  -  |  -  |  O  |  O  |
+|[약수들의 합](https://www.acmicpc.net/problem/9506)|B5|[Here](./solution/BOJ_9506_약수들의-합)                    |  -  |  -  |  O  |  O  | 
+|
