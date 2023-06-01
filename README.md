@@ -46,5 +46,5 @@
 |Problem|Level|Solution|                                                                                              나도원|윤지수|윤연상|이동준|
 |-------|:---:|:------:|:---:|:---:|:---:|:---:|
 |[블랙잭](https://www.acmicpc.net/problem/2798)|B3|[Here](./solution/BOJ_2798_블랙잭)                                  |  -  |  -  |  O  |  O  |
-|[약수들의 합](https://www.acmicpc.net/problem/9506)|B5|[Here](./solution/BOJ_9506_약수들의-합)                    |  -  |  -  |  O  |  O  | 
+|[약수들의 합](https://www.acmicpc.net/problem/9506)|B5|[Here](./solution/BOJ_9506_약수들의-합)                    |  -  |  -  |  O  |  -  | 
 |
