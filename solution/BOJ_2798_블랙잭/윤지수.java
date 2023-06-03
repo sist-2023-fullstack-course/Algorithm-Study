@@ -42,6 +42,8 @@ public class 블랙잭_2798 {
 				for(int k=j+1;k<N;k++)
 				{
 					int sum=arr[i]+arr[j]+arr[k];
+					if(sum==M)
+						maxSum=sum;
 					if(sum<M && sum>maxSum)
 					{
 						maxSum=sum;
