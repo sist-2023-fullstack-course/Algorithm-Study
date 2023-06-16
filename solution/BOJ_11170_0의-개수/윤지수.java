@@ -32,7 +32,7 @@ for(int i=0;i<s.length();i++)
 		cnt++;
 }
  */
-public class Main{
+public class Main{ 
 	
 	public static int countZero (int n , int m)
 	{
