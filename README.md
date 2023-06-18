@@ -46,7 +46,7 @@
 
 | Problem                                           | Level |               Solution                | 나도원 | 윤지수 | 윤연상 | 이동준 |
 | ------------------------------------------------- | :---: | :-----------------------------------: | :----: | :----: | :----: | :----: |
-| [토너먼트](https://www.acmicpc.net/problem/1057)  |  B3   | [Here](./solution/BOJ_1057_토너먼트)  |   -    |   -    |   O    |   -    |
-| [0의 개수](https://www.acmicpc.net/problem/11170) |  B5   | [Here](./solution/BOJ_11170_0의-개수) |   -    |   -    |   O    |   -    |
+| [평균](https://www.acmicpc.net/problem/1057)  |  B3   | [Here](./solution/BOJ_1057_토너먼트)  |   -    |   -    |   O    |   O    |
+| [공넣기](https://www.acmicpc.net/problem/11170) |  B5   | [Here](./solution/BOJ_11170_0의-개수) |   -    |   -    |   O    |   -    |
 
 |
