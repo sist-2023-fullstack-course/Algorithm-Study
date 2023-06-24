@@ -28,7 +28,7 @@ public class Boj_1546평균 {
 			}
 		}
 		// 새로운 평균 구하는 법: (원래점수/최고점*100 )
-		               //= (score[i]/max*100)
+		                //= (score[i]/max*100)
 		double avg=0;
 		double sum=0;
 		for(int i=0;i<N;i++)
