@@ -46,6 +46,6 @@
 
 | Problem                                           | Level |               Solution                | 나도원 | 윤지수 | 윤연상 | 이동준 |
 | ------------------------------------------------- | :---: | :-----------------------------------: | :----: | :----: | :----: | :----: |
-| [세로읽기](https://www.acmicpc.net/problem/10798)  |  B1   | [Here](.solution/BOJ_10798_세로읽기)  |   -    |   -    |   O    |   -    |
-| [공넣기](https://www.acmicpc.net/problem/10988) |  B2   | [Here](.solution/BOJ_10988_팰린드롬인지-확인하기) |   -    |   -    |   O    |   -    |
+| [세로읽기](https://www.acmicpc.net/problem/10798)  |  B1   | [Here](solution/BOJ_10798_세로읽기)  |   -    |   -    |   O    |   -    |
+| [공넣기](https://www.acmicpc.net/problem/10988) |  B2   | [Here](solution/BOJ_10988_팰린드롬인지-확인하기) |   -    |   -    |   O    |   -    |
 
