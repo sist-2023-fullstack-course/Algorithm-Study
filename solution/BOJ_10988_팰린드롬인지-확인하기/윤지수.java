@@ -24,9 +24,9 @@ public class 윤지수 {
         String word=in.readLine();
         
         if(isPalindrome(word))
-            System.out.println(1);
+            out.write("1");
         else
-            System.out.println(0);
+            out.write("0");
         
         out.flush();
         out.close();
