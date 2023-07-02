@@ -13,13 +13,13 @@ public class BOJ_10988_팰린드롬인지확인하기 {
 		
 		String word=in.readLine();
 		int length=word.length();
-		int result=1;
+		int result=1; // default값을 true(1)로 해줘야 한다
 		
 		for(int i=0;i<length/2;i++) {
 			char start=word.charAt(i);
 			char end=word.charAt(length-1-i);
 			
-			if(start!=end) {
+			if(start!=end) { // 하나라도 틀리면 바로 false(0)을 출력한다
 				result=0;
 			}
 		}
