@@ -1,8 +1,6 @@
-package week7_230921;
-
 import java.io.*;
 
-public class BOJ_2737 {
+public class BOJ_2737_피보나치수 {
     public static void main(String[] args) throws IOException {
         BufferedReader in=new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter out=new BufferedWriter(new OutputStreamWriter(System.out));
