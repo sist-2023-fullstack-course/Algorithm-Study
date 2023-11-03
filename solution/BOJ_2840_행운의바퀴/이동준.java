@@ -4,6 +4,11 @@ import java.util.StringTokenizer;
 
 public class Main {
 
+    /*
+     복잡도
+     배열 초기화 N + N(N-2) = N^2 -N -> 최고차항만 따지므로 O(N^2)의 복잡도를 갖는다.
+     */
+
     public static void main(String[] args) {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
